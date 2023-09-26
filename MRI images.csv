@@ -1,0 +1,21 @@
+ID,FILE NAME ,   TYPE
+Te-glTr_0000,Te-glTr_0000.jpg,glioma
+Te-glTr_0001,Te-glTr_0001.jpg,glioma
+Te-glTr_0002,Te-glTr_0002.jpg,glioma
+Te-glTr_0003,Te-glTr_0003.jpg,glioma
+Te-glTr_0004,Te-glTr_0004.jpg,glioma
+Te-meTr_0000,Te-meTr_0000.jpg,meningioma
+Te-meTr_0001,Te-meTr_0001.jpg,meningioma
+Te-meTr_0002,Te-meTr_0002.jpg,meningioma
+Te-meTr_0003,Te-meTr_0003.jpg,meningioma
+Te-meTr_0004,Te-meTr_0004.jpg,meningioma
+Te-noTr_0000,Te-noTr_0000.jpg,notumor
+Te-noTr_0001,Te-noTr_0001.jpg,notumor
+Te-noTr_0002,Te-noTr_0002.jpg,notumor
+Te-noTr_0003,Te-noTr_0003.jpg,notumor
+Te-noTr_0004,Te-noTr_0004.jpg,notumor
+Te-piTr_0000,Te-piTr_0000.jpg,pituitary
+Te-piTr_0001,Te-piTr_0001.jpg,pituitary
+Te-piTr_0002,Te-piTr_0002.jpg,pituitary
+Te-piTr_0003,Te-piTr_0003.jpg,pituitary
+Te-piTr_0004,Te-piTr_0004.jpg,pituitary
